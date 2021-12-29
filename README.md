@@ -1,8 +1,9 @@
-- Heya, I’m @EnterTheVoid-x86,
-- I’m interested in making games
-- I’m currently learning HTML5 Development
-- I’m looking to collaborate on some games
-- You can reach me with my email: vansamssecret@outlook.com
+- Heya, I’m @EnterTheVoid-x86.
+- I code scripts and tools in Ruby
+- I’m currently learning... Well, more Ruby-
+- Freelancer
+- Asexual and Demiandrogyne
+- You can reach me with my email: vansamssecret@gmail.com
 
 <!---
 EnterTheVoid-x86/EnterTheVoid-x86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
