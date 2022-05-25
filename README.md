@@ -1,8 +1,8 @@
 - Heya, I’m @EnterTheVoid-x86.
 - I code scripts and tools in Ruby
 - I’m currently learning... Well, more Ruby-
-- Freelancer
-- Asexual and Demiandrogyne
+- Programmer, Music Maker, ~~dumbass~~
+- Straight
 - You can reach me with my email: vansamssecret@gmail.com
 
 <!---
