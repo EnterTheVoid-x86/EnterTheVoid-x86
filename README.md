@@ -1,6 +1,6 @@
 - Heya, I’m @EnterTheVoid-x86.
-- I code scripts and tools in Ruby
-- I’m currently learning... Well, more Ruby-
+- I code scripts and tools in various programming languages.
+- I’m currently learning rust.
 - Programmer, Music Maker, ~~dumbass~~
 - Straight
 - You can reach me with my email: vansamssecret@gmail.com
