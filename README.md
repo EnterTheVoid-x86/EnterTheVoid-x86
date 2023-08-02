@@ -2,7 +2,7 @@
 - I code scripts and tools in various programming languages.
 - I’m currently working on the LUMEN package manager.
 - Programmer, Music Maker, ~~dumbass~~
-- Straight
+- he/him
 - You can reach me with my email: vansamssecret@gmail.com
 
 <!---
