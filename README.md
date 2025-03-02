@@ -1,6 +1,6 @@
 - Heya, I’m @EnterTheVoid-x86.
 - I code scripts and tools in various programming languages.
-- I’m currently working on the LUMEN package manager.
+- I’m currently working on X.I.N.Y and Priism.
 - Programmer, Music Maker, ~~dumbass~~
 - she/they
 - You can reach me with my email: enterthevoidx86@gmail.com
